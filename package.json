@@ -1,0 +1,29 @@
+{
+  "name": "xml_generator",
+  "version": "1.0.0",
+  "description": " generador de datos de prueba usando XML DOM en Javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chdorrego/XML_DOM_Nodejs_generator.git"
+  },
+  "keywords": [
+    "ejemplo",
+    "XML",
+    "DOM",
+    "Nodejs"
+  ],
+  "author": "udem_eli_brayan_christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chdorrego/XML_DOM_Nodejs_generator/issues"
+  },
+  "homepage": "https://github.com/chdorrego/XML_DOM_Nodejs_generator#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "xmldom": "^0.1.19"
+  }
+}

@@ -1,0 +1,37 @@
+<crisis>
+	<nombre>Crisis fronteriza con Venezuela</nombre>
+	<tipo>Desplazamiento forzado</tipo>
+	<fecha>2015-09-01</fecha>
+	<lugar>Cúcuta</lugar>
+	<afectados>
+		<familia>
+			<afectado>
+				<nombres>Juan Manuel</nombres>
+				<apellidos>Santos Calderón</apellidos>
+				<rol>Padre</rol>
+				<fecha-nacimiento>1951-08-10</fecha-nacimiento>
+				<lugar-nacimiento>Bogotá</lugar-nacimiento>
+				<lugar-procedencia>Caracas</lugar-procedencia>
+			</afectado>
+			
+			<afectado>
+				<nombres>María Clemencia</nombres>
+				<apellidos>Rodriguez</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento></fecha-nacimiento>
+				<lugar-nacimiento>Tunja</lugar-nacimiento>
+				<lugar-procedencia>Caracas</lugar-procedencia>
+			</afectado>
+			
+			<afectado>
+				<nombres>Martín</nombres>
+				<apellidos>Santos Rodriguez</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1984-08-10</fecha-nacimiento>
+				<lugar-nacimiento>Bogotá</lugar-nacimiento>
+				<lugar-procedencia>Caracas</lugar-procedencia>
+			</afectado>
+			
+		</familia>
+	</afectados>
+</crisis>

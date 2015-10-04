@@ -1,0 +1,110 @@
+<crisis>
+	<nombre>Sequía prolongada en Somalia</nombre>
+	<tipo>Escasez de recursos</tipo>
+	<fecha>2015-05-04</fecha>
+	<lugar>Mogadiscio</lugar>
+	<afectados>
+		<familia>
+			<afectado>
+				<nombres>Juan David</nombres>
+				<apellidos>Fuster Centeno</apellidos>
+				<rol>Padre</rol>
+				<fecha-nacimiento>1984-02-05</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Lucio</nombres>
+				<apellidos>Fuster Centeno</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2006-07-13</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Francesc Xavier</nombres>
+				<apellidos>Fuster Centeno</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2013-09-23</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Manuel Jesus</nombres>
+				<apellidos>Fuster Centeno</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2001-06-28</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Iris</nombres>
+				<apellidos>Juarez Collado</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1968-04-27</fecha-nacimiento>
+				<lugar-nacimiento>Damasco</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Manuel Angel</nombres>
+				<apellidos>Juarez Collado</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2001-09-15</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Juan Manuel</nombres>
+				<apellidos>Juarez Collado</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1989-11-30</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Jacinta</nombres>
+				<apellidos>Juarez Collado</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2014-11-05</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Marta Maria</nombres>
+				<apellidos>Juarez Collado</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1997-02-14</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Isabel</nombres>
+				<apellidos>Juarez Collado</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1987-05-21</fecha-nacimiento>
+				<lugar-nacimiento>Jartum</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Victor Jose</nombres>
+				<apellidos>Serrano Gomez</apellidos>
+				<rol>Padre</rol>
+				<fecha-nacimiento>1975-02-25</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Marcelo</nombres>
+				<apellidos>Serrano Ferrero</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2011-11-01</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Mogadiscio</lugar-procedencia>
+			</afectado>
+		</familia>
+	</afectados>
+</crisis>

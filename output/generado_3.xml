@@ -1,0 +1,110 @@
+<crisis>
+	<nombre>Crisis de acceso al agua en Siria</nombre>
+	<tipo>Escasez de recursos</tipo>
+	<fecha>2015-01-31</fecha>
+	<lugar>Palmyra</lugar>
+	<afectados>
+		<familia>
+			<afectado>
+				<nombres>Angustias</nombres>
+				<apellidos>Barros Jerez</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1982-06-29</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Maria Magdalena</nombres>
+				<apellidos>Montenegro Barros</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2011-02-05</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Maria Desamparados</nombres>
+				<apellidos>Montenegro Barros</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2008-06-02</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Africa</nombres>
+				<apellidos>Montenegro Barros</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2011-08-23</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Eugenio</nombres>
+				<apellidos>Montenegro Barros</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2000-05-27</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Nayara</nombres>
+				<apellidos>Haro Miguez</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1974-10-07</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Paulino</nombres>
+				<apellidos>Vega Haro</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1994-07-01</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Amelia</nombres>
+				<apellidos>Lago Urbano</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1951-03-19</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Andrea</nombres>
+				<apellidos>Cordoba Lago</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2002-01-31</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Mohamed</nombres>
+				<apellidos>Cordoba Lago</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2014-07-24</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Juan Dios</nombres>
+				<apellidos>Cordoba Lago</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1989-10-24</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Aida</nombres>
+				<apellidos>Cordoba Lago</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2014-11-27</fecha-nacimiento>
+				<lugar-nacimiento>Damasco</lugar-nacimiento>
+				<lugar-procedencia>Palmyra</lugar-procedencia>
+			</afectado>
+		</familia>
+	</afectados>
+</crisis>

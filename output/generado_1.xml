@@ -1,0 +1,150 @@
+<crisis>
+	<nombre>Niños en peligro en Sudan del sur</nombre>
+	<tipo>Conflicto</tipo>
+	<fecha>2015-08-22</fecha>
+	<lugar>Omdurmán</lugar>
+	<afectados>
+		<familia>
+			<afectado>
+				<nombres>Genaro</nombres>
+				<apellidos>Ballesteros Jerez</apellidos>
+				<rol>Padre</rol>
+				<fecha-nacimiento>1940-03-27</fecha-nacimiento>
+				<lugar-nacimiento>Damasco</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Angel Maria</nombres>
+				<apellidos>Ballesteros Paris</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2004-10-26</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Nestor</nombres>
+				<apellidos>Ballesteros Paris</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1984-01-11</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Alexia</nombres>
+				<apellidos>Ballesteros Paris</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1990-02-28</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Anna Maria</nombres>
+				<apellidos>Ballesteros Paris</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1973-11-06</fecha-nacimiento>
+				<lugar-nacimiento>Jartum</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Jose Alejandro</nombres>
+				<apellidos>Ballesteros Paris</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1998-03-31</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Soraya</nombres>
+				<apellidos>Costas Arellano</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1955-06-12</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Serafina</nombres>
+				<apellidos>Costas Arellano</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2003-01-13</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Mauricio</nombres>
+				<apellidos>Costas Arellano</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1988-12-22</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Maria Angela</nombres>
+				<apellidos>Costas Arellano</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1996-07-06</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Simon</nombres>
+				<apellidos>Costas Arellano</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2009-07-17</fecha-nacimiento>
+				<lugar-nacimiento>Jartum</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Laura</nombres>
+				<apellidos>De Dios Llopis</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1994-10-11</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Consuelo</nombres>
+				<apellidos>Muñiz De Dios</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2012-07-19</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Sofia</nombres>
+				<apellidos>Muñiz De Dios</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2014-08-01</fecha-nacimiento>
+				<lugar-nacimiento>Jartum</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>David</nombres>
+				<apellidos>Muñiz De Dios</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2011-09-05</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Erica</nombres>
+				<apellidos>Muñiz De Dios</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2015-05-23</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Celia</nombres>
+				<apellidos>Muñiz De Dios</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2015-05-15</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Omdurmán</lugar-procedencia>
+			</afectado>
+		</familia>
+	</afectados>
+</crisis>

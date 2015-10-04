@@ -1,0 +1,118 @@
+<crisis>
+	<nombre>Crisis humanitaria por falta de agua y alimentos en la Guajira</nombre>
+	<tipo>Escasez de recursos</tipo>
+	<fecha>2015-05-02</fecha>
+	<lugar>Guajira</lugar>
+	<afectados>
+		<familia>
+			<afectado>
+				<nombres>Felipe</nombres>
+				<apellidos>Meseguer Segarra</apellidos>
+				<rol>Padre</rol>
+				<fecha-nacimiento>1945-12-19</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Elisa</nombres>
+				<apellidos>Carrion Valiente</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1982-10-18</fecha-nacimiento>
+				<lugar-nacimiento>Acarnas</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Angustias</nombres>
+				<apellidos>Meseguer Carrion</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2015-05-08</fecha-nacimiento>
+				<lugar-nacimiento>Jartum</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Maria Almudena</nombres>
+				<apellidos>Cervantes Ventura</apellidos>
+				<rol>Madre</rol>
+				<fecha-nacimiento>1948-06-23</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Esperanza</nombres>
+				<apellidos>Cervantes Ventura</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1993-08-02</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Iker</nombres>
+				<apellidos>Cervantes Ventura</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1969-09-09</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Visitacion</nombres>
+				<apellidos>Cervantes Ventura</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>2002-11-09</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Ismael</nombres>
+				<apellidos>Cervantes Ventura</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>1978-07-13</fecha-nacimiento>
+				<lugar-nacimiento>Caracas</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Fidel</nombres>
+				<apellidos>Cervantes Ventura</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2011-10-12</fecha-nacimiento>
+				<lugar-nacimiento>Damasco</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+		</familia>
+		<familia>
+			<afectado>
+				<nombres>Jose Alberto</nombres>
+				<apellidos>Hidalgo Caballero</apellidos>
+				<rol>Padre</rol>
+				<fecha-nacimiento>1965-07-03</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Adoracion</nombres>
+				<apellidos>Hidalgo Valencia</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1991-10-09</fecha-nacimiento>
+				<lugar-nacimiento>undefined</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Estela</nombres>
+				<apellidos>Hidalgo Valencia</apellidos>
+				<rol>Hija</rol>
+				<fecha-nacimiento>1987-07-08</fecha-nacimiento>
+				<lugar-nacimiento>Damasco</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+			<afectado>
+				<nombres>Antonio Luis</nombres>
+				<apellidos>Hidalgo Valencia</apellidos>
+				<rol>Hijo</rol>
+				<fecha-nacimiento>2002-06-18</fecha-nacimiento>
+				<lugar-nacimiento>Bogota</lugar-nacimiento>
+				<lugar-procedencia>Guajira</lugar-procedencia>
+			</afectado>
+		</familia>
+	</afectados>
+</crisis>

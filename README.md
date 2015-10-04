@@ -33,7 +33,7 @@ Modulo [xmldom](https://github.com/jindw/xmldom)
 * Los nombres asignados a cada afectado depende del atributo ```genero``` del documento ```nombres.xml```
 
 
-### Estructura base del ```crisis.xml```:: 
+### Estructura base del ```crisis.xml```:
 ```xml
 <crisis>
 	<nombre></nombre>
@@ -54,14 +54,14 @@ Modulo [xmldom](https://github.com/jindw/xmldom)
 	</afectados>
 </crisis>
 ```
-### Estructura base del ```nombres.xml```:: 
+### Estructura base del ```nombres.xml```:
 ```xml
 <nombres>
 	<nombre genero="M">Nombre masculino/nombre>
 	<nombre genero="F">Nombre femenino</nombre>
 </nombres>
 ```
-### Estructura base del ```apellidos.xml```:: 
+### Estructura base del ```apellidos.xml```:
 ```xml
 <apellidos>
 	<apellido>APELLIDO</apellido>

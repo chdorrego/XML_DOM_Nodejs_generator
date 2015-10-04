@@ -20,7 +20,7 @@ Modulo [xmldom](https://github.com/jindw/xmldom)
 * Cada elemento familia contiene nombres al azar de personas, tomadas del archivo ```nombres.xml``` y ```apellidos.xml```. 
 * A cada persona le asignará una fecha de nacimiento, un lugar de nacimiento y un lugar de procedencia aleatoriamente.
 
-### Funcionalidades Adicionales: basados en condiciones reales
+### Funcionalidades Adicionales: basadas en condiciones reales
 * Los afectados poseen un rol el cual puede ser: Padre, Madre, Hijo o Hija. 
 * En una familia los hijos tienen los mismos apellidos de los padres. (```getFamilyLastNames()```) 
 	* ```flag==0``` Indica una familia que el padre/madre existe pero no vive en el hogar. El hijo/a tiene apellido de padre y de madre. 
